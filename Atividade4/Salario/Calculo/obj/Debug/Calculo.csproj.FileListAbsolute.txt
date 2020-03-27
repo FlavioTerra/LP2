@@ -1,0 +1,9 @@
+C:\Users\User 1\Documents\C#.NET\Calculo\Calculo\bin\Debug\Calculo.exe.config
+C:\Users\User 1\Documents\C#.NET\Calculo\Calculo\bin\Debug\Calculo.exe
+C:\Users\User 1\Documents\C#.NET\Calculo\Calculo\bin\Debug\Calculo.pdb
+C:\Users\User 1\Documents\C#.NET\Calculo\Calculo\obj\Debug\Calculo.csprojAssemblyReference.cache
+C:\Users\User 1\Documents\C#.NET\Calculo\Calculo\obj\Debug\Calculo.Form1.resources
+C:\Users\User 1\Documents\C#.NET\Calculo\Calculo\obj\Debug\Calculo.Properties.Resources.resources
+C:\Users\User 1\Documents\C#.NET\Calculo\Calculo\obj\Debug\Calculo.csproj.GenerateResource.cache
+C:\Users\User 1\Documents\C#.NET\Calculo\Calculo\obj\Debug\Calculo.exe
+C:\Users\User 1\Documents\C#.NET\Calculo\Calculo\obj\Debug\Calculo.pdb
