@@ -20,12 +20,12 @@ namespace Prova
 
         private void btnVerificar_Click(object sender, EventArgs e)
         {
-            double[,] Matriz = new double[5, 4];
+            double[,] Matriz = new double[35, 4];
             string valor = "";
             string Semana = "";
             double mes, Geral = 0;
 
-            for (int lin = 0; lin < 5; lin++)
+            for (int lin = 0; lin < 35; lin++)
             {
                 mes = 0;
                 for (int col = 0; col < 4; col++)
