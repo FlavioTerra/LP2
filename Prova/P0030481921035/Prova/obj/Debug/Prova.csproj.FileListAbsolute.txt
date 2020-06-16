@@ -1,0 +1,10 @@
+C:\Users\User 1\Documents\C#.NET\LP2\Prova\Prova\bin\Debug\Prova.exe.config
+C:\Users\User 1\Documents\C#.NET\LP2\Prova\Prova\bin\Debug\Prova.exe
+C:\Users\User 1\Documents\C#.NET\LP2\Prova\Prova\bin\Debug\Prova.pdb
+C:\Users\User 1\Documents\C#.NET\LP2\Prova\Prova\obj\Debug\Prova.csprojAssemblyReference.cache
+C:\Users\User 1\Documents\C#.NET\LP2\Prova\Prova\obj\Debug\Prova.Form1.resources
+C:\Users\User 1\Documents\C#.NET\LP2\Prova\Prova\obj\Debug\Prova.Properties.Resources.resources
+C:\Users\User 1\Documents\C#.NET\LP2\Prova\Prova\obj\Debug\Prova.csproj.GenerateResource.cache
+C:\Users\User 1\Documents\C#.NET\LP2\Prova\Prova\obj\Debug\Prova.csproj.CoreCompileInputs.cache
+C:\Users\User 1\Documents\C#.NET\LP2\Prova\Prova\obj\Debug\Prova.exe
+C:\Users\User 1\Documents\C#.NET\LP2\Prova\Prova\obj\Debug\Prova.pdb
