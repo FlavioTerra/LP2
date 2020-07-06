@@ -1,0 +1,13 @@
+C:\Users\User 1\Documents\C#.NET\LP2\ProjetoAluno\ProjetoAluno\bin\Debug\ProjetoAluno.exe.config
+C:\Users\User 1\Documents\C#.NET\LP2\ProjetoAluno\ProjetoAluno\bin\Debug\ProjetoAluno.exe
+C:\Users\User 1\Documents\C#.NET\LP2\ProjetoAluno\ProjetoAluno\bin\Debug\ProjetoAluno.pdb
+C:\Users\User 1\Documents\C#.NET\LP2\ProjetoAluno\ProjetoAluno\obj\Debug\ProjetoAluno.csprojAssemblyReference.cache
+C:\Users\User 1\Documents\C#.NET\LP2\ProjetoAluno\ProjetoAluno\obj\Debug\ProjetoAluno.frmPrincipal.resources
+C:\Users\User 1\Documents\C#.NET\LP2\ProjetoAluno\ProjetoAluno\obj\Debug\ProjetoAluno.Properties.Resources.resources
+C:\Users\User 1\Documents\C#.NET\LP2\ProjetoAluno\ProjetoAluno\obj\Debug\ProjetoAluno.csproj.GenerateResource.cache
+C:\Users\User 1\Documents\C#.NET\LP2\ProjetoAluno\ProjetoAluno\obj\Debug\ProjetoAluno.csproj.CoreCompileInputs.cache
+C:\Users\User 1\Documents\C#.NET\LP2\ProjetoAluno\ProjetoAluno\obj\Debug\ProjetoAluno.exe
+C:\Users\User 1\Documents\C#.NET\LP2\ProjetoAluno\ProjetoAluno\obj\Debug\ProjetoAluno.pdb
+C:\Users\User 1\Documents\C#.NET\LP2\ProjetoAluno\ProjetoAluno\obj\Debug\ProjetoAluno.frmCidade.resources
+C:\Users\User 1\Documents\C#.NET\LP2\ProjetoAluno\ProjetoAluno\obj\Debug\ProjetoAluno.frmAluno.resources
+C:\Users\User 1\Documents\C#.NET\LP2\ProjetoAluno\ProjetoAluno\obj\Debug\ProjetoAluno.Sobre.resources
